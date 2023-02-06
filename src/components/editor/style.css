@@ -1,0 +1,75 @@
+.editor_wrapper{
+    padding: 87px 50px;
+    background-color: #1B1B1B;
+
+}
+.title{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 75px;
+    /* identical to box height */
+
+
+    color: #C8C8C8;
+}
+
+.info{
+    padding-bottom: 11px;
+    border-bottom: 1px solid #2D2D2D;
+}
+
+.branch{
+    padding-top: 9px;
+    padding-bottom: 23px;
+}
+
+.item{
+    padding-right: 6px;
+font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 11px;
+    line-height: 16px;
+
+    color: #898989;
+
+}
+
+.info_item{
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 18px;
+    /* identical to box height */
+
+
+    color: #FFFFFF;
+    padding-right: 25px;
+}
+
+.icon{
+    padding-right: 6px;
+    width: 14px;
+    height: 14px;
+}
+
+.text{
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 18px;
+
+    color: #FFFFFF;
+}
+
+.textarea_editor{
+    width: 100%;
+    border: none;
+    background: #1B1B1B;
+    color: white;
+}

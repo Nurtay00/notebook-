@@ -1,0 +1,9 @@
+.wrapper{
+  display: grid;
+  flex-direction: row;
+  grid-template-columns: 1fr 3fr 1fr;
+
+  background-color: #272727;
+color: #FFFFFF;
+  height: 100vh;
+}
